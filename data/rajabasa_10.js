@@ -1,0 +1,1 @@
+var json_rajabasa_10 = {"type":"FeatureCollection","name":"rajabasa_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"5"},"geometry":{"type":"Point","coordinates":[105.635463951464644,-5.823229281939062]}}]}

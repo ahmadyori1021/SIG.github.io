@@ -1,0 +1,1 @@
+var json_kunjir_8 = {"type":"FeatureCollection","name":"kunjir_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[105.651052738181363,-5.825871437902562]}}]}

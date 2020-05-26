@@ -1,0 +1,1 @@
+var json_sukaraja_9 = {"type":"FeatureCollection","name":"sukaraja_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"4"},"geometry":{"type":"Point","coordinates":[105.642738718599105,-5.823114405310903]}}]}

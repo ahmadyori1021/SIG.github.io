@@ -1,0 +1,1 @@
+var json_waymuli_7 = {"type":"FeatureCollection","name":"waymuli_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"3"},"geometry":{"type":"Point","coordinates":[105.64955159575679,-5.820816867815573]}}]}
